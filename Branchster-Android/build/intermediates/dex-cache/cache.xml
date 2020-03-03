@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_3ffbe6eea4a570a645c55c200f69a659d98a8f30.jar" />
+    </item>
+    <item
+        jar="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.2.0_74410c83146686545c8375a8a10b60ca8aedadcb.jar" />
+    </item>
+    <item
+        jar="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_13f52b228a2dbd6d565772ed2a04ea4b1be3b73a.jar" />
+    </item>
+    <item
+        jar="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_b804bd9bb1826d4971248612d1f9bbf6a311c6d4.jar" />
+    </item>
+    <item
+        jar="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_f5d84474c47171e6a3592e85284e372da06bb5b6.jar" />
+    </item>
+    <item
+        jar="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_0a2666bb12b9cfa337c7906f2d2d6a17bd1b7a63.jar" />
+    </item>
+    <item
+        jar="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.2.0_0875b2b0b007d9ecaef1c3509b3ea61cd1da8eeb.jar" />
+    </item>
+    <item
+        jar="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers-shim/0.0.6/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ffde64dbb0fc07c8b9735c6c42a06a36be15ed13">
+        <dex dex="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-answers-shim-0.0.6_322442ef172f4a4828113e801003251100869d7c.jar" />
+    </item>
+    <item
+        jar="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_7e50e8f59498b4cb7f8fc0ab3d7cf5a4dc74f454.jar" />
+    </item>
+    <item
+        jar="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/exploded-aar/io.branch.sdk.android/library/2.19.5/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9ce61bb20c431a30ee51623cb15ce49f610a7b45">
+        <dex dex="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/pre-dexed/debug/io.branch.sdk.android-library-2.19.5_d6122de2b07d09c285ffe301d0909aa1aec06b85.jar" />
+    </item>
+    <item
+        jar="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_8e4552dbbc0a2a0c329df8da56abd94393b2179e.jar" />
+    </item>
+    <item
+        jar="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_c966d0bec112a83aa9f83b8e4df5bd6797769ecb.jar" />
+    </item>
+    <item
+        jar="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.2.0_a928afe791dc40a691184516df55ce1f5a17d5b7.jar" />
+    </item>
+    <item
+        jar="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-6.5.87_0ae128689d810e2d76824ce93522cf648459901a.jar" />
+    </item>
+    <item
+        jar="/Users/johntan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_c946fcbdc87bc1c6f8a8dc3f2a2c33e278334a65.jar" />
+    </item>
+    <item
+        jar="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/johntan/Downloads/Branchster-Android-No-SDK/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_8eeb2dcbc2094a242f35449985efc1e043796d12.jar" />
+    </item>
+
+</items>
